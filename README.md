@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Brent Clements
+👋 Hi, I’m Brent Clements
 - 👀 I’m interested in ...
   - Cloud
   - Programming
