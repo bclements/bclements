@@ -1,4 +1,4 @@
-![Me](../master/brent.jpg)
+![Me](https://github.com/bclements/bclements/raw/main/brent.jpg)
 
 👋 Hi, I’m Brent Clements 
 - 👀 I’m interested in ...
