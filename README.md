@@ -1,4 +1,4 @@
-![Me](https://github.com/bclements/bclements/raw/main/brent.jpg)
+![Me](https://github.com/bclements/bclements/raw/main/brentpic.jpg)
 
 👋 Hi, I’m Brent Clements 
 - 👀 I’m interested in ...
