@@ -1,4 +1,7 @@
-👋 Hi, I’m Brent Clements 
+👋 Hi, I’m Brent Clements
+
+![Me](https://github.com/bclements/bclements/raw/main/brentpic.jpg)
+
 - 👀 I’m interested in ...
   - Cloud
   - Programming
@@ -13,7 +16,7 @@
 - 📫 How to reach me ...
   - brent DOT clements AT gmail.com
 
-![Me](https://github.com/bclements/bclements/raw/main/brentpic.jpg)
+Opinions expressed are solely my own and do not express the views or opinions of my employer.
 
 <!---
 bclements/bclements is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
