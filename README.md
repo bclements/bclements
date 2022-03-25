@@ -3,17 +3,20 @@
 ![Me](https://github.com/bclements/bclements/raw/main/brentpic.jpg)
 
 - 👀 I’m interested in ...
-  - Cloud
-  - Programming
+  - Cloud Modernization and Transformation
+  - Modern Application Programming
+  - [Mob Programming](agilealliance.org/glossary/mob-programming/)
   - Hiking and Camping
   - Family and my Dogs 
   - Piano Playing - I have a [Yamaha Avantgrand N3X](https://usa.yamaha.com/products/musical_instruments/pianos/avantgrand/n3x/index.html)
 - 🌱 I’m currently re-invigorating my love for ...
+  - Video Games, primarily RTS'. My current favorite is [Frozenheim](https://store.steampowered.com/app/1134100/Frozenheim/)
   - Python
-  - Go Lang
+  - Golang
   - Advanced System Design
 - 💞️ I’m looking to collaborate on ...
-  - Python Projects
+  - Opensource Python Projects
+  - Startups
 - 📫 How to reach me ...
   - brent DOT clements AT gmail.com
 
