@@ -7,6 +7,7 @@
   - Programming
   - Hiking and Camping
   - Family and my Dogs 
+  - Piano Playing - I have a [Yamaha Avantgrand N3X](https://usa.yamaha.com/products/musical_instruments/pianos/avantgrand/n3x/index.html)
 - 🌱 I’m currently re-invigorating my love for ...
   - Python
   - Go Lang
