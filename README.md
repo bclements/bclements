@@ -7,7 +7,7 @@
   - Programming
   - Hiking and Camping
   - Family and my Dogs 
-- 🌱 I’m currently re-learning ...
+- 🌱 I’m currently re-invigorating my love for ...
   - Python
   - Go Lang
   - Advanced System Design
