@@ -4,8 +4,7 @@
 
 - 👀 I’m interested in ...
   - Cloud Modernization and Transformation
-  - Modern Application Programming
-  - [Mob Programming](agilealliance.org/glossary/mob-programming/)
+  - Modern Application Programming  
   - Hiking and Camping
   - Family and my Dogs 
   - Piano Playing - I have a [Yamaha Avantgrand N3X](https://usa.yamaha.com/products/musical_instruments/pianos/avantgrand/n3x/index.html)
@@ -13,7 +12,7 @@
   - Video Games, primarily RTS'. My current favorite is [Frozenheim](https://store.steampowered.com/app/1134100/Frozenheim/)
   - Python
   - Golang
-  - Advanced System Design
+  - Advanced System Design - 
 - 💞️ I’m looking to collaborate on ...
   - Opensource Python Projects
   - Startups
